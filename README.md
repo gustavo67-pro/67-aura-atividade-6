@@ -5,6 +5,7 @@ compartilhar para outros usuarios posibilitando uma revissao de arquivos e codig
 o GIT é um sistema que salva e acompanha as altaraçoes feitas nos arquivos.
 ele é util para quando um grupo esta trabalhando em algo ao mesmo tempo.
 para colocar seu documento online ou para publico va nas configuraçao ---> danger zone ---> change visibilit e selecione entre publico e privado
+
 seus comandos basicos:
 
 git add:
